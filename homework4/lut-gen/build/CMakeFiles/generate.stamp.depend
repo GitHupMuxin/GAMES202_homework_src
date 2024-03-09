@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/86178/Desktop/Games/GAMES202/homework4/lut-gen/CMakeLists.txt
+C:/Users/86178/Desktop/Games/GAMES202/homework4/lut-gen/build/CMakeFiles/3.28.0-rc5/CMakeCCompiler.cmake
+C:/Users/86178/Desktop/Games/GAMES202/homework4/lut-gen/build/CMakeFiles/3.28.0-rc5/CMakeCXXCompiler.cmake
+C:/Users/86178/Desktop/Games/GAMES202/homework4/lut-gen/build/CMakeFiles/3.28.0-rc5/CMakeRCCompiler.cmake
+C:/Users/86178/Desktop/Games/GAMES202/homework4/lut-gen/build/CMakeFiles/3.28.0-rc5/CMakeSystem.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+D:/CMake/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/CMake/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
